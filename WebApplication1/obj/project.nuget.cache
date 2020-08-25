@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cG+r6oBqF3Tiqa3KdgXR6wclEHzng2vziV9go4pHr0mo+nEv6KE3Sxlpla+GoCUfR9n4nmfQVvpV27MKntTHoA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taoge\\Desktop\\新建文件夹\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taoge\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
